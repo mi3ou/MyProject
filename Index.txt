@@ -1,0 +1,3 @@
+Hello Git
+I am learning Git locally.
+This is my first project.
